@@ -57,10 +57,10 @@ LSTM의 hidden layer의 수
 
 | model명    | epochs | batch size | unit | 활성화함수 | 손실함수 | 최적화함수(optimizer) | R^2  |
 | ---------- | ------ | ---------- | ---- | ---------- | -------- | --------------------- | ---- |
-| **모델42** | 100    | 128        | 50   | tanh       | MSE      | Adam                  | 86.4 |
-| 모델51     | 100    | 128        | 50   | Sigmoid    | MSE      | Adam                  | 86.4 |
-| 모델52     | 100    | 128        | 50   | ReLU       | MSE      | Adam                  | 86.4 |
-| 모델53     | 100    | 128        | 50   | Swish      | MSE      | Adam                  | 86.4 |
+| 모델54     | 100    | 128        | 50   | tanh       | MSE      | Adam                  | 86.4 |
+| **모델51** | 1000   | 128        | 50   | Sigmoid    | MSE      | Adam                  | 86.9 |
+| 모델52     | 100    | 128        | 50   | ReLU       | MSE      | Adam                  | 83.6 |
+| 모델53     | 100    | 128        | 50   | Swish      | MSE      | Adam                  | 84.8 |
 
 - Sigmoid
 - ReLU
