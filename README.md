@@ -74,5 +74,5 @@ LSTM의 hidden layer의 수
 | 10시간  | 1000   | 128        | 50   | Sigmoid    | MSE      | Adam                  | 78.7 |
 | 20시간  | 1000   | 128        | 50   | Sigmoid    | MSE      | Adam                  | 85.2 |
 | 22시간  | 1000   | 128        | 50   | Sigmoid    | MSE      | Adam                  | 86.9 |
-| 23시간  | 1000   | 128        | 50   | Sigmoid    | MSE      | Adam                  | 87.1 |
+| **23시간**  | 1000   | 128        | 50   | Sigmoid    | MSE      | Adam                  | 87.1 |
 | 24시간  | 1000   | 128        | 50   | Sigmoid    | MSE      | Adam                  | 85.4 |
